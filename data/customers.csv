@@ -1,0 +1,6 @@
+slt_account_no,name,phone,email,connection_type,tenure_months
+SLT-011-45921,A. Perera,0771234567,a.perera@example.com,broadband,36
+SLT-011-45922,B. Silva,0712345678,b.silva@example.com,peo-tv,12
+SLT-011-45923,C. Fernando,0765432198,c.fernando@example.com,voice,60
+SLT-011-45924,D. Jayasuriya,0751112223,d.jaya@example.com,broadband,6
+SLT-011-45925,E. Wickramasinghe,0723334445,e.wick@example.com,broadband,48
